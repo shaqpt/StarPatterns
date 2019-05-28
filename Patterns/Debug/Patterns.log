@@ -1,0 +1,6 @@
+﻿  Patterns.cpp
+c:\users\shaqueir tardif\documents\vs programs\patterns\patterns\patterns.cpp(26): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\shaqueir tardif\documents\vs programs\patterns\patterns\patterns.cpp(26): note: Add macro to precompiled header instead of defining here
+  c:\users\shaqueir tardif\documents\vs programs\patterns\patterns\patterns.cpp(30): note: use of precompiled header
+c:\users\shaqueir tardif\documents\vs programs\patterns\patterns\patterns.cpp(34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Patterns.vcxproj -> C:\Users\Shaqueir Tardif\Documents\VS Programs\Patterns\Debug\Patterns.exe
